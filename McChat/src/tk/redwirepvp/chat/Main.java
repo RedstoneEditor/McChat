@@ -53,7 +53,7 @@ public class Main extends Thread {
 	}
 
 	public static void main(String[] args) {
-		Main m = new Main("RedstoneEditor@gmail.com", "renaud",
+		Main m = new Main("xxxxx", "xxxxxx",
 				"localhost", 25565);
 	}
 
